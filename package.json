@@ -42,7 +42,8 @@
 	  "feedparser": "0.19.2",
 	  "request": "2.47.0",
 	  "lodash": "2.4.1",
-    "moment" : "2.8.3"
+    "moment" : "2.8.3",
+    "johnny-five" : "0.8.20"
   },
   "keywords": [],
   "preferGlobal": "true",
