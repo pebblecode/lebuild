@@ -10,6 +10,9 @@ var lebuild = require('lebuild');
 lebuild.awesome(); // "awesome"
 ```
 
+## Resources used:
+- [ node module tutorial ](http://javascriptplayground.com/blog/2012/08/writing-a-command-line-node-tool/)
+
 ## Documentation
 _(Coming soon)_
 
@@ -25,3 +28,4 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2014 Martin Schinz  
 Licensed under the Apache, 2.0 licenses.
+

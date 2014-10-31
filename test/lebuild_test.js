@@ -22,15 +22,15 @@ var lebuild = require('../lib/lebuild.js');
     test.ifError(value)
 */
 
-exports['awesome'] = {
-  setUp: function(done) {
-    // setup here
-    done();
-  },
-  'no args': function(test) {
-    test.expect(1);
-    // tests here
-    test.equal(lebuild.awesome(), 'awesome', 'should be awesome.');
-    test.done();
-  },
-};
+//exports['awesome'] = {
+  //setUp: function(done) {
+    //// setup here
+    //done();
+  //},
+  //'no args': function(test) {
+    //test.expect(1);
+    //// tests here
+    //test.equal(lebuild.awesome(), 'awesome', 'should be awesome.');
+    //test.done();
+  //},
+//};
